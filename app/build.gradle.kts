@@ -45,7 +45,7 @@ dependencies {
 
 
     implementation(libs.androidx.room.runtime)
-    ks(libs.androidx.room.compiler)
+    ksp(libs.androidx.room.compiler)
     implementation(libs.androidx.room.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx.v261)
     implementation (libs.androidx.material)
