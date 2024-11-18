@@ -13,7 +13,7 @@ Creado por **Unai Pérez Toscano**.
 - 
 ## Interfaz de la aplicación
 
-![Pantalla principal(https://github.com/unai5665/ComposeRoomApp/blob/master/pantallamain.png)
+![Pantalla principal](https://github.com/unai5665/ComposeRoomApp/blob/master/pantallamain.png)
 
 ## Funcionalidades
 - Gestión de datos local usando Room Database.
